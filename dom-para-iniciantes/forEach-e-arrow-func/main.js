@@ -38,10 +38,5 @@
 // });
 
 // imgs.forEach(() => i++);
-let a = false;
-let b = false;
-let c = true;
 
-
-console.log(a && b || c)
 
